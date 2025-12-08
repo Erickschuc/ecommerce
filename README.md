@@ -2,9 +2,9 @@ POST
 
 {
 
-    "nome": "teste",
+    "nome": "admin",
     
-    "email": "teste@gmail.com",
+    "email": "admin@gmail.com",
     
     "senha": "123",
     
